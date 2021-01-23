@@ -1,3 +1,3 @@
-Some solutions are wrong while most of them are correct.
+## Some solutions are wrong while most of them are correct.
 
-有一些答案是错的，同学们可以试着自己发现。
+## 有一些答案是错的，同学们可以试着自己发现。
